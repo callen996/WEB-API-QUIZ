@@ -1,6 +1,6 @@
 # Project: Web APIs: Code Quiz
 
-  <Deployable Link - > href="https://reindeercode.github.io/Web-APIs-Code-Quiz/">
+  Deployable Link - > href="https://reindeercode.github.io/Web-APIs-Code-Quiz/"
 
 
 ## Table of Contents: 
