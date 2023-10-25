@@ -10,8 +10,6 @@
   - [Description:](#description)
   - [Installation Instructions:](#installation-instructions)
   - [Test Command:](#test-command)
-  - [Github:](#github)
-  - [My Email Address:](#my-email-address)
   - [Other Contributors:](#other-contributors)
   - [Images:](#images)
 
